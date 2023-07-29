@@ -1,0 +1,50 @@
+.wrapper {
+    background: url(https://www.look.com.ua/large/201812/317777.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.bbb {
+    color: white;
+}
+
+.menu {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.nnn {
+    width: 3%;
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+}
+
+.item {
+    margin-left: 20px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.connect {
+    background: transparent;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid white;
+    color: white;
+    font-size: 25px;
+}
+body{
+    margin:0;
+}
